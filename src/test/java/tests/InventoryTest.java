@@ -35,4 +35,5 @@ public class InventoryTest extends BaseTest {
                 "Products count is not 6"
         );
     }
+
 }
